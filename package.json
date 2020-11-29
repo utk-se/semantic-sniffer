@@ -3,16 +3,15 @@
   "main": "./lib/semantic-sniffer",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "semantic-sniffer:toggle"
   },
-  "repository": "https://github.com/atom/semantic-sniffer",
-  "license": "MIT",
+  "repository": "https://github.com/utk-se/semantic-sniffer",
+  "license": "MPL-2.0",
+  "author": "Aiden Rutter",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
