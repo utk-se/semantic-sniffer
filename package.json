@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "semantic-sniffer:toggle"
+    "atom-workspace": "semantic-sniffer:sniff"
   },
   "repository": "https://github.com/utk-se/semantic-sniffer",
   "license": "MPL-2.0",
