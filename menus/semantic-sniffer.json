@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle semantic-sniffer",
-        "command": "semantic-sniffer:toggle"
+        "label": "semantic-sniffer sniff",
+        "command": "semantic-sniffer:sniff"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "semantic-sniffer",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "semantic-sniffer:toggle"
+              "label": "Sniff",
+              "command": "semantic-sniffer:sniff"
             }
           ]
         }
