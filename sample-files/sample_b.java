@@ -11,6 +11,11 @@ public class Main
             System.out.println("The above conditional should be identified as a code smell.");
         }
 
+        if (s == "hello")
+        {
+            System.out.println("The above conditional should be identified as a code smell.");
+        }
+
         if (s.equals("hello"))
         {
         }
