@@ -6,7 +6,7 @@ public class Main
     {
         String s = "hello";
 
-        if (s = "hello")
+        if (s == "hello")
         {
             System.out.println("The above conditional should be identified as a code smell.");
         }
