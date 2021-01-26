@@ -18,6 +18,14 @@ public class Main
     while(a==0 && b==4) {
 
     }
+    if(a | b) {
 
+    }
+    if(a & b) {
+
+    }
+    boolean z = a | c;
+    int b = a | c;
+    int bro;
   }
 }
